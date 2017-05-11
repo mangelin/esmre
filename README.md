@@ -1,3 +1,9 @@
+# esmre for python 3.x
+
+This is a python 3.x compatible version of esmre python module. Original code is hosted on Google code: [https://code.google.com/archive/p/esmre!](https://code.google.com/archive/p/esmre). This version was tested on Linux on python 2.7.13 and python 3.5.2.
+
+
+
 # esmre - Efficient String Matching Regular Expressions
 
 esmre is a Python module that can be used to speed up the execution of a large

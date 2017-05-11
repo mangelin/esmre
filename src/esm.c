@@ -265,9 +265,6 @@ PyInit_esm(void)
         return;
 
     m = PyModule_Create(&esm_module);
-    //m = Py_InitModule3("esm", esm_methods, "Support for efficient string matching.");
-    
-    
     if (m == NULL) {
         return;
     }

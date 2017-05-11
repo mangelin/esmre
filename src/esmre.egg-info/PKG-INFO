@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: esmre
+Version: 0.3.2
+Summary: Regular expression accelerator
+Home-page: http://code.google.com/p/esmre/
+Author: Will Harris
+Author-email: esmre@greatlibrary.net
+License: GNU LGPL
+Description: Modules used to accelerate execution of a large collection of regular expressions using the Aho-Corasick algorithms.
+Platform: POSIX
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: C
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Text Processing :: Indexing

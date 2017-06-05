@@ -9,7 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
-build/
+build/*
 develop-eggs/
 dist/
 downloads/
@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+build/*
+dist/*
+src/esmre.egg-info

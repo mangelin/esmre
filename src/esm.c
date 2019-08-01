@@ -262,11 +262,11 @@ PyInit_esm(void)
     PyObject* m;
 
     if (PyType_Ready(&esm_IndexType) < 0)
-        return;
+        return NULL;
 
     m = PyModule_Create(&esm_module);
     if (m == NULL) {
-        return;
+        return NULL;
     }
 
     Py_INCREF(&esm_IndexType);
